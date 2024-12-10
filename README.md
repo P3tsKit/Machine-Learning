@@ -46,15 +46,15 @@ The model is built using **InceptionV3**, a pre-trained deep learning model, wit
 
 ### Architecture
 
-1. **Base Model**:  
+1. **Base Model**  
    - InceptionV3 pre-trained on ImageNet.
    - Fully connected layers excluded (`include_top=False`).
    - Input shape: `(224, 224, 3)`.
 
-2. **Fine-Tuning**:  
+2. **Fine-Tuning**  
    - Layers frozen: All except the last 30 layers.
 
-3. **Custom Layers**:
+3. **Custom Layers**
    - **Global Average Pooling**: Reduces parameters and improves efficiency.
    - **Dense Layer 1**: 256 neurons with ReLU activation.
    - **Batch Normalization**: Stabilizes and accelerates training.
@@ -83,3 +83,72 @@ After training, the model's performance is visualized using the metrics of accur
 ## Model Saving
 
 Model is saved in HDF5 format dan Keras format.
+
+## Model API
+
+A Flask-based API is built to serve the trained model for predicting skin diseases in dogs and cats. The API accepts an image as input, processes it, and returns the predicted disease class along with relevant information.
+
+### Endpoints
+
+1. **Home Page**
+   - **URL**: `/`
+   - **Method**: GET
+   - **Description**: Returns the home page with an interface for image upload.
+   - 
+2. **Prediction Endpoint**
+   - **URL**: `/predict`
+   - **Method**: POST
+   - **Description**: Accepts an image file, processes it, and returns the predicted class along with additional disease information.
+
+   **Request Example**:
+   - Upload an image file as a form-data key named `file`.
+
+   **Response Example**:
+   ```json
+   {
+       "predicted_class": "Ringworm",
+       "disease_info": {
+           "description": "Ear mites are tiny parasites that live in the ear canal of dogs or cats causing itching, pain and abnormal discharge. If left untreated ear mites can lead to secondary infections or hearing loss.",
+           "causes": "Ear Mites are generally spread through close contact with other animals, such as dogs or cats, that already have ear mites. Animals can contract ear mites from contaminated surroundings, bedding or toys. Animals that do not have monthly vaccinations are particularly at risk of ear mites if exposed.",
+           "symptoms": [
+            "1. Shaking the head",
+            "2. Itchy and red ears",
+            "3. Ear odor",
+            "4. Thick brown or black discharge from the ear",
+            "5. Sore and sensitive ears",
+            "6. Head Tilt",
+            "7. Loss of hair around the ears and eyes",
+            "8. Decreased appetite",
+            "9. Lethargic"
+        ],
+           "treatment": [
+            "1. Clean the ears of dogs and cats with an ear cleaner every day or twice a day.", 
+            "2. Topical and oral treatment of dogs and cats."
+        ],
+           "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+           "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/ear-mites-dogs-what-are-they-and-how-do-you-treat-them"
+       }
+   }
+   ```
+
+   If the confidence is below the threshold:
+
+   ```json
+   {
+       "predicted_class": "Sorry, disease cannot be detected",
+       "disease_info": null
+   }
+   ```
+## Running the API
+
+1. Install the required dependencies listed in requirements.txt.
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the flask API.
+
+```bash
+python main.py
+```

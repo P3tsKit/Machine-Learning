@@ -1,0 +1,177 @@
+{
+    "Ear Mites": {
+        "description": "Ear mites are tiny parasites that live in the ear canal of dogs or cats causing itching, pain and abnormal discharge. If left untreated ear mites can lead to secondary infections or hearing loss.",
+        "causes": "Ear Mites are generally spread through close contact with other animals, such as dogs or cats, that already have ear mites. Animals can contract ear mites from contaminated surroundings, bedding or toys. Animals that do not have monthly vaccinations are particularly at risk of ear mites if exposed.",
+        "symptoms": [
+            "1. Shaking the head",
+            "2. Itchy and red ears",
+            "3. Ear odor",
+            "4. Thick brown or black discharge from the ear",
+            "5. Sore and sensitive ears",
+            "6. Head Tilt",
+            "7. Loss of hair around the ears and eyes",
+            "8. Decreased appetite",
+            "9. Lethargic"
+        ],
+        "treatment": [
+            "1. Clean the ears of dogs and cats with an ear cleaner every day or twice a day.", 
+            "2. Topical and oral treatment of dogs and cats."
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/ear-mites-dogs-what-are-they-and-how-do-you-treat-them"
+    },
+    "Eyelid Lump": {
+        "description": "Eyelid lumps are abnormal growths that can appear on the upper or lower eyelid in animals. This condition is common and can be a cancerous (malignant) or benign (non-cancerous) lump.Animal eyelids have an important role in protecting the eye, producing secretions through the meibomian glands, and dispersing tears evenly. The presence of a lump on the eyelid can cause the edge of the eyelid to become uneven, thus disrupting its anatomical function.",
+        "causes": "Eyelid lumps in animals can be caused by a variety of factors, although in many cases the exact cause is unknown. Meibomian gland cysts develop when oil and debris become trapped in the ducts, often in association with localized inflammation or infection, such as sinusitis. Meanwhile, eyelid lumps that are both benign and cancerous also have causes that are not fully understood. Cancer of the animal eyelid is usually multifactorial, influenced by a complex range of risk factors, including environmental and genetic variables.",
+        "symptoms": [
+            "1. Lumps on the eyelids that look reddish and blepharitis",
+            "2. Blurred vision",
+            "3. Pain in the eye"
+        ],
+        "treatment": [
+            "1. Lumps on the eyelids that look reddish and blepharitis",
+            "2. Blurred vision",
+            "3. Pain in the eye "
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": "https://www.honestpaws.com/blogs/health/dog-eyelid-lump"
+    },
+    "Flea Allergy": {
+        "description": "One of the most common diseases associated with flea infestation is flea allergy dermatitis (FAD) or flea bite hypersensitivity, which occurs when a dog or cat's immune system overreacts to the saliva injected by the flea during its bite. Itching, fur loss and inflamed skin are common.",
+        "causes": "Flea allergy dermatitis (FAD) is caused by an allergy to flea saliva. Allergies occur when a substance is misidentified as harmful by the immune system. Histamine is then released, triggering symptoms that characterize an allergic reaction such as redness, swelling, and itching.",
+        "symptoms": [
+            "The main symptoms of flea allergy dermatitis (FAD):",
+            "1. Itching and excessive scratching (Pruritus)",
+            "2. Hair loss (Alopecia)",
+            "3. Damaged skin",
+            "4. Rash",
+            "Additional symptoms may develop if there is a secondary bacterial or fungal infection of the skin:",
+            "1. Thickened and gray skin (Lichenification)",
+            "2. Crusty skin",
+            "3. Pustules",
+            "4. Wet or festering sores"
+        ],
+        "treatment": [
+            "Flea control is the primary step in the treatment and prevention of flea allergy dermatitis (FAD). Other treatments depend on the severity of symptoms, and may include:",
+            "1. Antibiotics",
+            "2. Antifungal",
+            "3. Steroids"
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": [
+            "1. https://www.boehringer-ingelheim.com/animal-health/companion-animals-horses/pets/cat-dog-flea-allergy-dermatitis",
+            "2. https://vetster.com/en/conditions/cat/flea-allergy-dermatitis-fad-in-cats"
+        ]
+    },
+    "Keratosis": {
+        "description": "Keratosis, also known as hyperkeratosis, is a condition where the skin becomes hard, thickened, and often cracked and very dry. The term 'keratosis' refers to the excessive growth of keratin in the skin. When keratin production is excessive, the skin becomes less elastic. If left untreated, keratosis can lead to secondary infections. Patients with keratosis will commonly encounter this condition on the pads of the feet and nose. Although it can appear on other parts of the body, these two areas are the most commonly affected.",
+        "causes": [
+            "1. Genetic and hereditary factors",
+            "2. Age",
+            "3. Parasites",
+            "4. Autoimmune diseases",
+            "5. Infectious diseases",
+            "6. Zinc deficiency"
+        ],
+        "symptoms": [
+            "1. Dry and crusty skin layer",
+            "2. Cracking, splitting, and bleeding",
+            "3. Pain or sensitivity in the affected area",
+            "4. Loss of skin color in the affected area",
+            "5. Frequent foot licking",
+            "6. Limp",
+            "7. Inequality",
+            "8. Reduced physical activity",
+            "9. Secondary infection"
+        ],
+        "treatment": [
+            "While keratosis cannot be cured completely, its symptoms can be managed with proper diagnosis. Here are some treatment approaches that can be considered:",
+            "1. If the keratosis is caused by another disease (autoimmune or parasitic), treatment will focus on that condition.",
+            "2. If there is no infection and the condition is not dangerous, you can carefully trim off the excess keratin after consulting your veterinarian.",
+            "3. Soaking the animal's paw in warm water with Epsom salts for 15 minutes can help relieve pain. Ensure the paw is dry to prevent infection.",
+            "4. Over-the-counter topical ointments or creams can soften the keratin and reduce pain. Consult your veterinarian for the right choice.",
+            "5. If there is an infection on your dog's skin accompanied by keratosis, your veterinarian may prescribe antibiotics or antifungal medications. These medications may come in the form of ointments, creams, or pills."
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": [
+            "1. https://mypetnutritionist.com/post/the-low-down-on-keratosis/",
+            "2. https://ponderosavetclinic.com/dog-hyperkeratosis/",
+            "3. https://tploinfo.com/blog/hyperkeratosis-in-dogs-an-overview/"
+        ]
+    },
+    "Nasal Discharge": {
+        "description": "Nasal discharge is the discharge of fluid or substance from the nose. This condition is occasionally considered normal. However, it can also occur due to irritation of the nose or eyes, infectious diseases, allergies, dental abscesses, or tumors.",
+        "causes": [
+            "1. Polyps in the ear, nose and throat (Aural and Nasopharyngeal)",
+            "2. Cleft palate or lip",
+            "3. Fungal infection (Aspergillosis)",
+            "4. Nasal tumors",
+            "5. Rhinitis",
+            "6. Tooth abscess",
+            "7. Nasal mites",
+            "8. Migration of grass thorns (Foxtails)",
+            "9. Kennel cough"
+        ],
+        "symptoms": "The symptoms of nasal discharge differ depending on the cause. One specific form is nosebleeds (epistaxis), which is nasal discharge containing or dominated by blood.",
+        "treatment": [
+            "1. Spending time in a room with hot steam to relieve nasal congestion due to infectious rhinitis",
+            "2. Nasal drops",
+            "3. Nebulization, which is pumping vapor slowly into the nose using a medical device",
+            "4. Antibiotic therapy as a trial (as secondary infections often occur",
+            "5. Fluid administration",
+            "6. Oral antihistamines"
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": [
+            "1. https://vetster.com/en/symptoms/dog/nasal-discharge",
+            "2. https://vetster.com/en/symptoms/cat/nasal-discharge"
+        ]
+    },
+    "Ringworm": {
+        "description": "Ringworm is caused by a protein-consuming fungal infection of the outermost layer of the skin, nails and hair. In medical terms, this condition is known as dermatophytosis, which refers to fungal skin infections. The disease can infect a variety of species, including dogs, cats and humans. Dermatophytosis is contagious, both between individual animals and between animals and humans (zoonosis). The name ringworm refers to the characteristic reddish circular skin lesions, resembling coiled worms. However, it is important to note that ringworm infections do not always appear in the form of circles, especially in dogs, which sometimes display lesions in the form of small bald areas, known as alopecia. These lesions can appear on various parts of the body, although they are more commonly seen on the face, ears, flanks and tail.",
+        "causes": "Ringworm is an infectious disease caused by a fungus that can live on skin, furniture, soil, and objects such as clothing and bedding. The disease can be transmitted through direct contact with contaminated skin or fur, or indirectly through spores that can survive up to 18 months in the environment. Infected animals can transmit ringworm for up to three weeks even when on treatment. Being zoonotic, the disease can be transmitted between humans and animals, with a higher risk in young animals and animals with weakened immunity.",
+        "symptoms": [
+            "1. Hair that breaks or falls out easily",
+            "2. The appearance of crusts on the skin similar to dandruff",
+            "3. Thickening of the skin (crusting) that looks like dead skin cells attached to the surface of the skin",
+            "4. Thickening of the skin (crusting) that looks like dead skin cells attached to the surface of the skin",
+            "5. Thickening of the skin with darker discoloration",
+            "6. Circular areas on the skin with hair loss",
+            "7. Habitual hair scratching or chewing, which can lead to vomiting, hairball formation in cats, and constipation",
+            "8. Nail loss or thickening"
+        ],
+        "treatment": [
+            "1. Topical medications, such as ointments, lotions, shampoos, or baths (e.g. with lime and sulfur).",
+            "2. Oral antifungal medications, such as Itraconazole and Griseofulvin, are prescribed for more severe or widespread infections. Antifungal medications can have side effects, so topical treatments are preferred for milder localized infections. For example, the drug Griseofulvin requires periodic blood tests due to its side effect of potentially damaging bone marrow.",
+            "3. Shaving of the infected area, to help the topical medication reach the target more effectively.",
+            "4. To prevent and treat infections, start by cutting the affected area and confining infected pets to one section of the house. Thoroughly vacuum areas where pets spend time, wash their bedding and toys in hot water, and remove carpets or bedding if possible. Clean cages, surfaces, and floors with a diluted bleach solution or antifungal spray. Repeat these steps monthly until the infection is fully resolved."
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": [
+            "1. https://www2.zoetis.co.id/artikel-dan-berita/ringworm-penyakit-kulit-yang-sering-terjadi-pada-anjing-dan-kucing-",
+            "2. https://www.everypaw.com/all-things-pet/ringworm-in-dogs-and-cats",
+            "3. https://www.embracepetinsurance.com/health/dermatophytosis-ringworm"
+        ]
+    },
+    "Scabies": {
+        "description": "Scabies is a skin infection caused by the mite Sarcoptes scabiei var. hominis. These mites burrow into the skin to lay their eggs, causing intense itching, especially at night, and a characteristic rash. The disease is highly contagious, spread through direct skin contact or sharing personal items such as clothing or bedding.",
+        "causes": "Animals get scabies through contact with animals that have scabies. For feline scabies, this contact is usually with a cat that has scabies. For dog scabies, this contact is usually with a dog that has scabies. These mites are highly contagious between animals.",
+        "symptoms": [
+            "1. Intense itching",
+            "2. Skin peeling",
+            "3. Fur shedding",
+            "4. Inflammation"
+        ],
+        "treatment": [
+            "1. Although isoxazoline flea control products such as Bravecto and Revolution Plus are not approved to treat scabies in cats because the condition is so rare, a single dose is effective.",
+            "2. Selamectin (Revolution) is approved for use in dogs for sarcoptes scabies, but is not approved for use in cats as scabies is very rare in cats. However, it is an effective treatment for feline scabies.",
+            "3. Moxidectin (Advantage Multi) is effective but also not approved.",
+            "4. Ivermectin was one of the first treatments used for feline scabies and is still used today. This medication is usually given by injection every 1-2 weeks for a month."
+        ],
+        "note": "If the condition does not get better, consult a veterinarian for further treatment.",
+        "source": [
+            "1. https://www.petmd.com/cat/conditions/skin/scabies-in-cats",
+            "2. https://www.pawbasic.com/post/grooming-dogs-and-cats-with-scabies-essential-tips-for-safety-and-care"
+        ]
+    }
+}

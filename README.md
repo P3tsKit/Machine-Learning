@@ -12,12 +12,8 @@ The dataset includes the following skin disease classes:
 - Keratosis
 - Ringworm
 - Scabies
-- Pyoderma
-- Leprosy
 - Flea Allergy
-- Entropion
 - Nasal Discharge
-- Conjunctivitis
 - Ear Mites
 
 ### Dataset Splitting Strategies

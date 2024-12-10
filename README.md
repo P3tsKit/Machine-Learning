@@ -143,12 +143,12 @@ A Flask-based API is built to serve the trained model for predicting skin diseas
 
 1. Install the required dependencies listed in requirements.txt.
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. Run the flask API.
 
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```

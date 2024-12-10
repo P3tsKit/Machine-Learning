@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-This project uses a dataset of 11 classes of skin diseases in dogs and cats, sourced from **Roboflow**.
+This project uses a dataset of 7 classes of skin diseases in dogs and cats, sourced from **Roboflow**.
 
 ### Classes of Diseases
 
@@ -16,20 +16,12 @@ The dataset includes the following skin disease classes:
 - Nasal Discharge
 - Ear Mites
 
-### Dataset Splitting Strategies
+### Dataset Splitting
 
-We experimented with two dataset splitting strategies to evaluate model performance:
-
-#### Default Split
-- **Training**: 880 images
-- **Validation**: 110 images
-- **Testing**: 110 images
-
-#### Alternative Split
 - **Training**: 880 images
 - **Validation**: 220 images
 
-In both cases, the images are evenly distributed across all 11 classes to maintain class balance.
+The images are evenly distributed across all 7 classes to maintain class balance.
 
 ## Preprocessing
 

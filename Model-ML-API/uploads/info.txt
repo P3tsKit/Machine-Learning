@@ -1,0 +1,1 @@
+The uploads folder is used to store image files uploaded by users before being processed by the model for prediction.

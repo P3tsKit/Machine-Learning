@@ -78,7 +78,7 @@ After training, the model's performance is visualized using the metrics of accur
 
 ## Testing
 
-![photo-collage png](https://github.com/user-attachments/assets/53622067-1a89-454a-a130-b2709deaee6a)
+![Screenshot 2024-12-10 174938](https://github.com/user-attachments/assets/246239aa-2527-46e4-9f2d-08510cc99ca6)
 
 ## Model Saving
 

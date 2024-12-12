@@ -74,7 +74,7 @@ The model is built using **InceptionV3**, a pre-trained deep learning model, wit
 
 After training, the model's performance is visualized using the metrics of accuracy and loss for both training and validation datasets over each epoch. 
 
-![Screenshot 2024-12-10 174148](https://github.com/user-attachments/assets/719131d3-a39c-4b67-a59a-6e1297b32823)
+![Screenshot 2024-12-12 182437](https://github.com/user-attachments/assets/c4ff0ba5-c4a1-4c50-8bd8-bf96219e8b23)
 
 ## Testing
 

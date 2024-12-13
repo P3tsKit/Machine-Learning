@@ -152,3 +152,11 @@ A Flask-based API is built to serve the trained model for predicting skin diseas
    ```bash
    python main.py
    ```
+   
+## Machine Learning Team Members
+
+| Name              | ID          | GitHub Profile                               |
+|-------------------|-------------|----------------------------------------------|
+| Bunga Harumalia Mardikawati  | M283B4KX0883  | [GitHub Link](https://github.com/ocyeanicc) |
+| Hanivianka Amelia Hamson  | M283B4KX1717  | [GitHub Link](https://github.com/hanivianka)    |
+| Linda Magdalena   | M283B4KX2275  | [GitHub Link](https://github.com/lizyyaaa)    |
